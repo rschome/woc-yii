@@ -1,0 +1,11 @@
+body{margin:0px auto;padding:0px;text-align:center;}
+#conter{width:605px;height:235px;margin:200px auto;}
+#left{width:24px;height:235px;float:left;}
+#right{width:581px;height:235px;background: url(../images/login_box_bg1.gif) no-repeat;float:right;text-align:left;}
+#right_logo{width:231px;height:58px;font: bold 15px/58px, Arial, Helvetica, sans-serif;color:#000;text-align:center;line-height:60px;font-weight:bold;}
+#right_search{width:471px;height:48px;margin:0 55px;}
+#right_search1{width:181px;height:38px;float:left;font: bold 12px/18px, Arial, Helvetica, sans-serif;}
+#right_search2{width:181px;height:38px;font: bold 12px/18px, Arial, Helvetica, sans-serif;float:left;margin-left:10px}
+#right_anniu{width:100px;height:38px;margin-left:451px}
+#right_foot{width:581px;height:38px;font:12px/32px Arial, Helvetica, sans-serif;color:#000;text-align:center}
+.clear{clear:both}

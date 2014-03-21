@@ -1,0 +1,133 @@
+2012/08/16 06:58:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 06:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 06:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "install".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php:477
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php(262): CController->missingAction('install')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(277): CController->run('install')
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('auth/install')
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#5 {main} REQUEST_URI=/WOC-YII/auth/install
+2012/08/16 07:00:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "install".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php:477
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php(262): CController->missingAction('install')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(277): CController->run('install')
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('auth/install')
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#5 {main} REQUEST_URI=/WOC-YII/auth/install
+2012/08/16 07:00:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "install".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php:477
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php(262): CController->missingAction('install')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(277): CController->run('install')
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('auth/install')
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#5 {main} REQUEST_URI=/WOC-YII/auth/install
+2012/08/16 07:00:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "install".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php:477
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php(262): CController->missingAction('install')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(277): CController->run('install')
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('auth/install')
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#5 {main} REQUEST_URI=/WOC-YII/auth/install
+2012/08/16 07:00:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:00:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:01:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:01:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "l".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php:477
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php(262): CController->missingAction('l')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(277): CController->run('l')
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('site/l')
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#5 {main} REQUEST_URI=/WOC-YII/site/l
+2012/08/16 07:01:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "install".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php:477
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CController.php(262): CController->missingAction('install')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(277): CController->run('install')
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('site/install')
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#4 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#5 {main} REQUEST_URI=/WOC-YII/site/install
+2012/08/16 07:01:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:02:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tt/install".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('tt/install')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/tt/install/
+2012/08/16 07:02:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:05:56 [error] [exception.CDbException] SQLSTATE[42000] [1049] Unknown database 'operation'
+2012/08/16 07:05:56 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection.' in D:\PHPnow\htdocs\WOC-YII\library\Yii\db\CDbConnection.php:370
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\CDbConnection.php(313): CDbConnection->open()
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\CDbConnection.php(291): CDbConnection->setActive(true)
+#2 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CModule.php(372): CDbConnection->init()
+#3 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(429): CModule->getComponent('db')
+#4 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\ar\CActiveRecord.php(609): CApplication->getDb()
+#5 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\ar\CActiveRecord.php(2275): CActiveRecord->getDbConnection()
+#6 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\ar\CActiveRecord.php(372): CActiveRecordMetaData->__construct(Object(Perm))
+#7 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\ar\CActiveRecord.php(387): CActiveRecord::model('Perm')
+#8 D:\PHPnow\htdocs\WOC-YII\library\Yii\db\ar\CActiveRecord.php(62): CActiveRecord->getMetaData()
+#9 D:\PHPnow\htdocs\WOC-YII\protected\components\Controller.php(30): CActiveRecord->__construct()
+#10 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(276): Controller->init()
+#11 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('')
+#12 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#13 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#14 {main} REQUEST_URI=/WOC-YII/
+2012/08/16 07:05:56 [error] [exception.CDbException] SQLSTATE[42000] [1049] Unknown database 'operation'
+2012/08/16 07:07:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:07:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
+2012/08/16 07:39:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "skin/js/login.js".' in D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php:281
+Stack trace:
+#0 D:\PHPnow\htdocs\WOC-YII\library\Yii\web\CWebApplication.php(136): CWebApplication->runController('skin/js/login.j...')
+#1 D:\PHPnow\htdocs\WOC-YII\library\Yii\base\CApplication.php(158): CWebApplication->processRequest()
+#2 D:\PHPnow\htdocs\WOC-YII\index.php(14): CApplication->run()
+#3 {main} REQUEST_URI=/WOC-YII/skin/js/login.js
